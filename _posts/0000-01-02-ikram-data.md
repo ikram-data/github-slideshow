@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"No Pain No Gain"
 Use the left arrow to go back!
